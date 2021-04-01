@@ -16,3 +16,6 @@ $ kubectl explain deployment --recursive
 
 to only see spec values
 $ kubectl explain services.spec
+
+4) Good kubernetes resource
+https://github.com/DeekshithSN/kubernetes
